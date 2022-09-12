@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Pchijoy
 - 👀 I’m interested in HTML, C++
 - 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on anyone willing to share knowledge with me
 - 📫 How to reach me pchijoy@gmail.com
 
 <!---
