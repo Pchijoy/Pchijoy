@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pchijoy
-- 👀 I’m interested in HTML, C++
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning HTML
 - 📫 How to reach me pchijoy@gmail.com
 
